@@ -14,12 +14,6 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-    "com.unity.forked.simpleanimation": {
-      "version": "file:SimpleAnimationComponent",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "com.unity.ide.rider": {
       "version": "3.0.21",
       "depth": 0,
@@ -95,6 +89,12 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
+    },
+    "jp.bexide.unity.simpleanimation": {
+      "version": "file:SimpleAnimationComponent",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
